@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ZedUnderson&style=flat-square&color=blue" alt=""/>
 <hr>
-  Welcome to Evillarin, an innovative and community-driven open-source project dedicated to making the world a safer place in the digital realm. Evillarin is a comprehensive cybersecurity solution that empowers individuals, businesses, and organizations to protect their online presence from emerging threats and vulnerabilities.
+Evillarin is built on the principles of transparency and collaboration. It's open-source, meaning that anyone can access, use, and contribute to the project. This collective effort ensures constant improvement and cutting-edge security measures.
 </div>
 <hr>
 
