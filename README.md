@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ZedUnderson&style=flat-square&color=blue" alt=""/>
 <hr>
-  We offer a opensource UX/UI Design for your company, You can also contribute on our projects.
+  Welcome to Evillarin, an innovative and community-driven open-source project dedicated to making the world a safer place in the digital realm. Evillarin is a comprehensive cybersecurity solution that empowers individuals, businesses, and organizations to protect their online presence from emerging threats and vulnerabilities.
 </div>
 <hr>
 
