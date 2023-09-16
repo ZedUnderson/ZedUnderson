@@ -9,5 +9,6 @@
 <hr>
   We offer a opensource UX/UI Design for your company, You can also contribute on our projects.
 </div>
+<hr>
 
 Check our blogs : https://evillarin.com/
