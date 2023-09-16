@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/edward-villarin-06883a290/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
 </div>
+<img src="https://komarev.com/ghpvc/?username=ZedUnderson&style=flat-square&color=blue" alt=""/>
+
 </div>
 
