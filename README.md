@@ -6,8 +6,8 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ZedUnderson&style=flat-square&color=blue" alt=""/>
-
-</div>
 <hr>
-### :woman_technologist: About Me :
+  We offer a opensource UX/UI Design for your company
+</div>
+
 
