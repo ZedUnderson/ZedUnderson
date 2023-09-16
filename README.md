@@ -6,7 +6,9 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ZedUnderson&style=flat-square&color=blue" alt=""/>
-<hr>
+
 </div>
+<hr>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZedUnderson&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
