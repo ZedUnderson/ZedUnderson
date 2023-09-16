@@ -16,5 +16,5 @@ LinkedIn : https://www.linkedin.com/in/edward-villarin-06883a290/
 
 ---
 
-### :fire: My Stats :
+### :fire: Our Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZedUnderson&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
