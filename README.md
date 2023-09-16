@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ZedUnderson&style=flat-square&color=blue" alt=""/>
 <hr>
-  We offer a opensource UX/UI Design for your company
+  We offer a opensource UX/UI Design for your company, You can also contribute on our projects.
 </div>
 
 
