@@ -13,3 +13,7 @@
 
 Website : https://evillarin.com/ <br>
 LinkedIn : https://www.linkedin.com/in/edward-villarin-06883a290/
+<div = "center">
+:fire: My Stats :
+  
+</div>
