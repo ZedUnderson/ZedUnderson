@@ -15,6 +15,6 @@ Website : https://evillarin.com/ <br>
 LinkedIn : https://www.linkedin.com/in/edward-villarin-06883a290/
 <div = "center">
 :fire: My Stats :
- [![GitHub Streak](https://streak-stats.demolab.com?user=ZedUnderson&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+ 
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZedUnderson&theme=dark&hide_border=true)](https://git.io/streak-stats)
