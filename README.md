@@ -11,4 +11,5 @@
 </div>
 <hr>
 
-Check our blogs : https://evillarin.com/
+Website : https://evillarin.com/
+LinkedIn : https://www.linkedin.com/in/edward-villarin-06883a290/
