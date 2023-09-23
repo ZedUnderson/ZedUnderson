@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://evillarin.com/storage/orange-3d-and-modern-technology-logo-512-512-px-removebg-preview.png" width="100"/>
+  <img src="https://evillarin.com/uploads/monthly_2023_09/NewProject(1).png.76983d3a456539c106246dc2825faf3a.png" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/edward-villarin-06883a290/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
