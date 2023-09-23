@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://evillarin.com/uploads/monthly_2023_09/msapplication-square310x310logo.png"/>
+  <img src="https://evillarin.com/uploads/monthly_2023_09/msapplication-square70x70logo.png"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/edward-villarin-06883a290/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
